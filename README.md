@@ -1,5 +1,5 @@
 # KarpathyTutorial
-This repo contains codes I've studied by watching **Andrej Karpathy**'s tutorial on YouTube.
+This repo contains codes I've studied based on **Andrej Karpathy**'s tutorial on YouTube.
 
 
 
